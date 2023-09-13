@@ -1,6 +1,6 @@
 /**
  * @file Histogram.cpp
- * @author MP
+ * @author Emilio Guillén Álvarez
  */
 #include<iostream>
 #include<string>
